@@ -1,6 +1,14 @@
 [
   {
+    "path": "/clienti/",
+    "component": "clienti.vue"
+  },
+  {
     "path": "/home/",
     "component": "home.vue"
+  },
+  {
+    "path": "/interventi/",
+    "component": "interventi.vue"
   }
 ]

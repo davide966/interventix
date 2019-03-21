@@ -11,7 +11,7 @@
   "iconBackgroundColor": "#ffffff",
   "useIconFonts": {
     "framework7": false,
-    "material": false,
+    "material": true,
     "ion": false,
     "fontawesome": false
   },
@@ -22,25 +22,25 @@
   "phoneFrameBodyBackgroundColor": "#fafafa",
   "framework7parameters": {},
   "materialSubnavbarFix": true,
-  "restoreHistory": true,
+  "restoreHistory": false,
   "restoreComponentData": true,
   "completeRoutesFile": true,
   "firebase": {
-    "apiKey": "",
-    "authDomain": "",
-    "databaseURL": "",
+    "apiKey": "AIzaSyCcTCwnw2e5Kqaf1tRiZ6h4duAyckdjrU4",
+    "authDomain": "interventix-suca.firebaseapp.com",
+    "databaseURL": "https://interventix-suca.firebaseio.com",
     "storageBucket": "",
-    "projectId": "",
+    "projectId": "interventix-suca",
     "allowEmailLogin": false,
     "allowEmailRegistration": false
   },
   "devFirebase": {
     "deployDevRulesOnTesting": false,
-    "apiKey": "",
-    "authDomain": "",
-    "databaseURL": "",
+    "apiKey": "AIzaSyCcTCwnw2e5Kqaf1tRiZ6h4duAyckdjrU4",
+    "authDomain": "interventix-suca.firebaseapp.com",
+    "databaseURL": "https://interventix-suca.firebaseio.com",
     "storageBucket": "",
-    "projectId": "",
+    "projectId": "interventix-suca",
     "allowEmailLogin": false,
     "allowEmailRegistration": false
   },
@@ -76,7 +76,7 @@
   },
   "fixCodeOnTest": true,
   "fixCodeOnBuild": true,
-  "devServerPort": "8080",
+  "devServerPort": "8081",
   "gitignore": {},
   "npmignore": {},
   "debug": false
